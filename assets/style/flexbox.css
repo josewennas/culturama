@@ -13,6 +13,13 @@
 
 }
 
+.rodape{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
 @media (min-width:1440px) {
     .menu {
         column-gap: 105px;
